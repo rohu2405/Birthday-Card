@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Birthday Wishing App</string>
+    <string name="todo">TODO</string>
+    <string name="enter_the_name">Enter the Name</string>
+    <string name="name">Name</string>
+    <string name="create_birthday_card">Create Birthday Card</string>
+    <string name="todo1">TODO</string>
+    <string name="wishing_you_a_very_n_happy_birthday">Wishing You A Very \n Happy Birthday :)</string>
+</resources>
